@@ -1,0 +1,26 @@
+_repo: The-quare-women-b-A-story-of-the-Kentucky-mountains_72307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Furman, Lucy S.
+    gutenberg_agent_id: '36131'
+    url: http://www.gutenberg.org/2009/agents/36131
+description: ''
+gutenberg_issued: '2023-12-04'
+identifiers:
+  gutenberg: '72307'
+language: en
+pgterms:marc905: 20220602151113furman
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: hekula03, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aBoston :$bThe Atlantic Monthly Press, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The quare women : $b A story of the Kentucky mountains'
+url: http://www.gutenberg.org/ebooks/72307
