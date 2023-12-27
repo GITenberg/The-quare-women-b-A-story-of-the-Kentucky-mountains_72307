@@ -1,11 +1,16 @@
 _repo: The-quare-women-b-A-story-of-the-Kentucky-mountains_72307
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72307-h/images/cover.jpg
 creator:
   author:
     agent_name: Furman, Lucy S.
     gutenberg_agent_id: '36131'
     url: http://www.gutenberg.org/2009/agents/36131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72307#The-quare-women-b-A-story-of-the-Kentucky-mountains
 gutenberg_issued: '2023-12-04'
 identifiers:
   gutenberg: '72307'
